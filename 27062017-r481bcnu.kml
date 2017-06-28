@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+<name>RentCar - TLV</name>
+<description>RentCar Tel-Aviv office</description>
+<Point>
+<coordinates>34.77538704872131,32.09955378518063,0</coordinates>
+</Point>
+</Placemark>
+</kml>
